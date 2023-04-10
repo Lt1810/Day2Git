@@ -13,4 +13,7 @@ public class Day2Demo {
 	This is coming from other team member...
 	
 	*/
+	public void hubTest(){
+		System.out.println("test");
+	}
 }
